@@ -1,3 +1,24 @@
+/* :root {
+  --primary-color: black;
+  --background: white;
+  --secondary-color: white;
+  --icons: gray;
+  --hover_head: #eff2f5 ;
+  --blue: #2e81f4;
+} */
+/* 
+==== dark ==== */
+
+/* [data-theme='dark']{
+  --primary-color: white;
+  --secondary-color: 		#18191a;
+  --icons: white;
+  --hover_head: #3a3b3c ;
+  --blue: #2e81f4;
+  --background:	#242526;
+} */
+
+/* 
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +26,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+} */
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+

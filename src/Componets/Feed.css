@@ -1,0 +1,13 @@
+
+.feedcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.feed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 150px;
+}
